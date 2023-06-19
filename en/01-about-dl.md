@@ -1,4 +1,4 @@
-# ABOUT DISTRIBUTED LAB
+# About Distributed Lab
 
 Distributed Lab (https://distributedlab.com/) was founded in 2014 as an R&D company. We started to work on a wide 
 variety of projects from wallets to digital banks, all operating in the field of accounting and management of assets. 
@@ -11,13 +11,13 @@ impossible to create advanced systems without a proper education focused on the 
 blockchain and decentralized technologies. That’s how we came up with a cornerstone of building the Financial Internet 
 in 2015—through conducting research and knowledge sharing.
 
-The closest goal is digitization (tokenization) of asset management systems. To make this happen we created a framework 
-called TokenD (https://tokend.io/) — therefore since 2018, we became entirely a product company. We see our product as a 
-white label processing center for digital assets or, you could say, “Wordpress” for digitization. Our framework is 
-needed to build your own systems faster, cheaper and safer than ever before. It appeared as a consequence of years of 
-work on different projects that, as we then realized, were essentially asking for the same thing. This “thing” is an 
-accounting system which is secure, with wallets for users, a ledger for assets, an internal payment system, an exchange, 
-modules that manage identities, roles, the lifecycle of assets, and gateways for external integrations. Having combined 
+The closest goal is the digitization (tokenization) of asset management systems. To make this happen we created a 
+framework called TokenD (https://tokend.io/) — therefore, since 2018, we have become a product company. We see our 
+product as a white label processing center for digital assets or, you could say, “WordPress” for digitization. Our 
+framework is needed to build your own systems faster, cheaper, and safer than ever before. It appeared as a consequence 
+of years of work on different projects that, as we then realized, were asking for the same thing. This “thing” is a 
+secure accounting system, with wallets for users, a ledger for assets, an internal payment system, an exchange, modules 
+that manage identities, roles, the lifecycle of assets, and gateways for external integrations. Having combined 
 everything mentioned, TokenD allows one to launch a digital asset ecosystem within days for a fraction of the cost of 
 the in-house development.
 
