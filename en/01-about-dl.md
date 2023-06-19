@@ -12,7 +12,7 @@ blockchain and decentralized technologies. That’s how we came up with a corner
 in 2015—through conducting research and knowledge sharing.
 
 The closest goal is digitization (tokenization) of asset management systems. To make this happen we created a framework 
-called TokenD (https://tokend.io/)—therefore since 2018, we became entirely a product company. We see our product as a 
+called TokenD (https://tokend.io/) — therefore since 2018, we became entirely a product company. We see our product as a 
 white label processing center for digital assets or, you could say, “Wordpress” for digitization. Our framework is 
 needed to build your own systems faster, cheaper and safer than ever before. It appeared as a consequence of years of 
 work on different projects that, as we then realized, were essentially asking for the same thing. This “thing” is an 
